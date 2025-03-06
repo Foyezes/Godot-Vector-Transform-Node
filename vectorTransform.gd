@@ -11,7 +11,7 @@ func _get_name():
 func _get_category():
 	return "Transform"
 func _get_description():
-	return "Converts VERTEX from View Space to World Space"
+	return "Transforms a vector between different coordinate spaces"
 func _get_input_port_count():
 	return 1
 func _get_input_port_name(port):
