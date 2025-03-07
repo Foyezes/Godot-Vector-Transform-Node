@@ -34,5 +34,5 @@ For AxB(3x3) & BxA(3x3)
 
 
 # Installation
-Extract the zip file and copy the folder to your project. You'll need to restart the editor for the node to appear in visual shader.
-Alternatively, you can make a new gdscript file and copy the code.
+You can get it from the [Asset Store](https://godotengine.org/asset-library/asset/3792) in editor.
+Or extract the zip file and copy the folder to your project. You'll need to restart the editor for the node to appear in visual shader.
